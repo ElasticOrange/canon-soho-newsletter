@@ -1,0 +1,4 @@
+/vendor
+.env
+db.php
+back_to_school.reject.txt
